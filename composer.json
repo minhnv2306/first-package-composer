@@ -1,6 +1,7 @@
 {
     "name": "minhnv/hello-world",
     "description": "My first Composer project",
+    "version": "2.0",
     "authors": [
         {
             "name": "Minh NV",

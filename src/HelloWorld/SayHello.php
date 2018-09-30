@@ -6,6 +6,7 @@ class SayHello
 {
     public static function world()
     {
-        echo 'Hello World, Composer!';
+    	$name = 'MinhNV';
+        echo 'Hello World, !' . $name;
     }
 }
